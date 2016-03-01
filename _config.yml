@@ -14,8 +14,8 @@ title: "Edintelligence | Machine Learning Student Group"
 #email: ""
 description: "Machine Learning student group of the University of Edinburgh"
 baseurl: ""
-#url: "http://edintelligence.github.io"
-url: "http://localhost:4000"
+url: "http://edintelligence.github.io"
+#url: "http://localhost:4000"
 #permalink: "/blog/:title"
 
 
