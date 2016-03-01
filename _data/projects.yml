@@ -1,0 +1,6 @@
+-
+    id: 0
+    name: "Stock Trading"
+    description: "Within the trading project we experiment with the use of deep learning techniques for stock market prediction as well as stock trading in general. This is planned to include the use of diffrent neural networks trained on classification or regression tasks. However, it is also planned to train a reinforcement learning agent on the same problem."
+    github: "https://github.com/edintelligence/stocks"
+    active: true

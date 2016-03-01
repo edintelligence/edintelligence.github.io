@@ -1,0 +1,94 @@
+<!-- Main -->
+<article id="main">
+
+    <!-- One -->
+    <section class="wrapper style4 container">
+
+        <div class="row 100%">
+            <div class="12u 12u(narrower)">
+
+
+                <!-- Sidebar -->
+                    <div class="sidebar">
+
+                        <section style="margin-bottom:0px">
+                            <header>
+                                <h3 style="margin-bottom:0px;">What is going on?</h3>
+                            </header>
+                        </section>
+                        {% for event in site.data.events %} {% if event.published == true %}
+                        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                        {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+                        {% if eventtime > nowunix %}
+                        {% assign hasUpcoming = true %}
+                        {% endif %}
+                        {% if eventtime < nowunix %}
+                        {% assign hasPrevious = true %}
+                        {% endif %}
+                        {% endif %}{% endfor %}
+
+                        {% if hasUpcoming == true %}
+                        <section style="margin-top:0px;  padding-top:1em;">
+                            <header>
+                                <h3>Upcoming events</h3>
+                            </header>
+                        {% for event in site.data.events %} {% if event.published == true %}
+                        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                        {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+                        {% if eventtime > nowunix %}
+                        <div class="row 100% 12u 12u(narrower)" style="padding-left:1em;margin-bottom:1em;">
+                            <h4 style="width: 100%">{{ event.date | date: "%d. %b %y"}}: {{ event.name }}</h4>
+
+                            <p style="margin-top: -10pt; margin-left: 25pt; width:100%; padding-top:0px; margin-bottom:0px;">
+                                {{ event.description }}
+                            </p>
+                            {% if event.facebook != null %}
+                            <p style="margin-left: 25pt; padding-top:0px">
+                                Find out more on <a href="{{ event.facebook }}" >Facebook</a>.
+                            </p>
+                            {% endif %}
+                        </div>
+                        {% endif %} {% endif %} {% endfor %}
+                        </section>
+                        {% endif %}
+
+                        {% if hasPrevious == true %}
+                        <section style="margin-top:0px;  padding-top:1em;">
+                            <header>
+                                <h3>Past events</h3>
+                            </header>
+
+                        {% for event in site.data.events %} {% if event.published == true %}
+                        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                        {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+                        {% if eventtime < nowunix %}
+                        <div class="row 100% 12u 12u(narrower)" style="padding-left:1em; margin-bottom:1em;">
+                            <h4 style="width: 100%">{{ event.date | date: "%d. %b %y"}}: {{ event.name }}</h4>
+
+                            <p style="margin-top: -10pt; margin-left: 25pt; width:100%; padding-top:0px; margin-bottom:0px;">
+                                {{ event.description }}
+                            </p>
+                            {% if event.facebook != null %}
+                            <p style="margin-left: 25pt; padding-top:0px">
+                                Find out more on <a href="{{ event.facebook }}" >Facebook</a>.
+                            </p>
+                            {% endif %}
+                        </div>
+
+                        {% endif %} {% endif %} {% endfor %}
+                        </section>
+                        {% endif %}
+                        {% if hasPrevious != true and  hasUpcoming != true %}
+                        <section>
+                            <div>
+                                Sorry, but we do not have any events to show.
+                            </div>
+                        </section>
+                        {% endif %}
+                    </div>
+
+            </div>
+
+        </div>
+    </section>
+</article>

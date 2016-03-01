@@ -1,0 +1,48 @@
+<!-- Main -->
+<article id="main">
+
+    <!-- One -->
+    <section class="wrapper style4 container">
+
+        <div class="row 100%">
+            <div class="12u 12u(narrower)">
+
+
+                <!-- Sidebar -->
+                    <div class="sidebar">
+
+                        <section>
+                            <header>
+                                <h3>Learn about our projects</h3>
+                            </header>
+                        </section>
+
+                        {% for project in site.data.projects %} {% if project.active == true %}
+                        <section>
+                        <div class="row 100%">
+                            {% if project.image != null %}
+                            <div class="3u 12u (narrower)">
+                            <a href="#" class="image project"><img src="{{ site.baseurl }}/images/{{ project.image }}" alt="" class="9u 12u (narrower)"/></a><br>
+                            </div>
+                            {% endif project.image != empty %}
+                            <div class="9u 12u(narrower)">
+                            <h3>{{ project.name }}</h3>
+                            <p>
+                                {{ project.description }}
+                            </p>
+                            {% if project.github != null %}
+                            <p>
+                                Find out more on <a href="{{ project.github }}" >Github</a>.
+                            </p>
+                            {% endif %}
+                            </div>
+                        </div>
+                        </section>
+                        {% endif %} {% endfor %}
+                    </div>
+
+            </div>
+
+        </div>
+    </section>
+</article>

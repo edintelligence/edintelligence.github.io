@@ -1,0 +1,43 @@
+-
+    id: 4
+    name: "Andreea Pascu"
+    image: "andreea.jpg"
+    description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
+    team: true
+
+-
+    id: 2
+    name: "Jonathan Schwarz"
+    image: "jonathan.jpg"
+    description: "Jonathan got interested in Artificial Intelligence through his work on robotics during his undergraduate studies. Being fascinated by the possibility of allowing machines to learn, he decided to pursue a Master's in Edinburgh.
+    He is now particularly keen on applying Deep Learning to language."
+    social:
+        - {name: "github", link: "https://github.com/jonathan-schwarz"}
+    team: true
+
+-
+    id: 3
+    name: "Miguel Jacques"
+    image: "miguel.jpg"
+    description: "Miguel is an UoE M.Sc. Artificial Intelligence student."
+    team: true
+
+-
+    id: 0
+    name: "Nick Pawlowski"
+    image: "nick.jpg"
+    description: "Nick just started following developments in AI quite recently, when a friend showed him Stanfords CS231n course on Convolutional Neural Networks. This made him switch from Physics to AI. He is now particularly interested in Reinforcement Learning."
+    social:
+        - {name: "github", link: "https://github.com/pawni"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/nickpawlowski"}
+    team: true
+
+-
+    id: 1
+    name: "Todor Davchev"
+    image: "todor.jpg"
+    description: "Todor is interested in providing the world with innovative solutions. He studies and enjoys Artificial Intelligence and Machine Learning. As an enthusiastic and open-minded person, he is constantly looking for challenging opportunities that will expand and further enhance the world's knowledge and understanding of what intelligence is and how to apply it in the technology domain."
+    social:
+        - {name: "github", link: "https://github.com/yadrimz"}
+        - {name: "twitter", link: "https://twitter.com/yadrimz"}
+    team: true

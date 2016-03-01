@@ -1,0 +1,36 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
+
+
+# Site Settings
+title: "Edintelligence | Machine Learning Student Group"
+#email: ""
+description: "Machine Learning student group of the University of Edinburgh"
+baseurl: ""
+#url: "http://edintelligence.github.io"
+url: "http://localhost:4000"
+#permalink: "/blog/:title"
+
+
+# Head
+metaKeywords: "deep learning, University of Edinburgh, machine learning, neural networks"
+twitterAccount: "@edintelligence"
+
+##
+googleAnalyticsTrackingId: "UA-36376375-2"
+googleAnalyticsSiteUrl: "auto"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/projects/", text: "Projects"}
+ - {permalink: "/events/", text: "Events"}
+ - {permalink: "/team/", text: "Team"}

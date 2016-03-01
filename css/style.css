@@ -647,6 +647,7 @@
 			right: 1.5em;
 			text-transform: uppercase;
 			top: 0.75em;
+			margin-top: -10px;
 		}
 
 			#header nav ul li {

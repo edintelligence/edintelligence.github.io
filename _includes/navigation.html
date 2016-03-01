@@ -1,0 +1,14 @@
+<!-- Header -->
+<header id="header" class="{{ page.header-class }}">
+    <img src="{{ site.baseurl }}/images/ed.png" style="float:left; margin-right:10px; height:40px">
+    <h1 id="logo"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.png" style="float:left; margin-right:5px; height:40px">Edintelligence<div> Machine Learning Student Group</span></div></a></h1>
+    <nav id="nav">
+        <ul>
+            {% for navigationLink in site.navigationLinks %}
+            <li class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}" >
+                <a  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
