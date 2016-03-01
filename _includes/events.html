@@ -37,11 +37,17 @@
                         {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
                         {% if eventtime > nowunix %}
                         <div class="row 100% 12u 12u(narrower)" style="padding-left:1em;margin-bottom:1em;">
-                            <h4 style="width: 100%">{{ event.date | date: "%d. %b %y"}}: {{ event.name }}</h4>
+                            <h4 style="width: 100%">{% if event.allday == true %}
+                                {{ event.date | date: "%d. %b %y" }}{% else %}{{ event.date | date: "%d. %b %y, %H:%M"}}{% endif %}: {{ event.name }}</h4>
 
                             <p style="margin-top: -10pt; margin-left: 25pt; width:100%; padding-top:0px; margin-bottom:0px;">
                                 {{ event.description }}
                             </p>
+                            {% if event.location != null %}
+                            <p style="margin-left: 25pt; padding-top:0px; margin-right:60%">
+                                Location: {{ event.location }}
+                            </p>
+                            {% endif %}
                             {% if event.facebook != null %}
                             <p style="margin-left: 25pt; padding-top:0px">
                                 Find out more on <a href="{{ event.facebook }}" >Facebook</a>.

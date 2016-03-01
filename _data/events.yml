@@ -4,8 +4,9 @@
     name: "Edintelligence presents: Deep Learning and its applications in research"
     published: true
     description: "Edintelligence's kickoff event will be a talk about Deep Learning and how it currently is used within research. To see various aspects of this talk Steve Renals and Iain Murray are going to share their experiences and uses of Deep Learning within their research. Steve is going to speak about his use of Deep Learning for speech processing whereas Iain will talk about Deep Learning and density estimation."
-    date: 2016-03-03
+    date: 2016-03-03 18:00:00
     facebook: "https://www.facebook.com/events/810344855761744/"
+    allday: false
 
 
 -
@@ -13,5 +14,7 @@
     name: "Coding, project work and mingling session"
     published: true
     description: "This is our weekly informal working session. Everyone is welcome to join and either contribute to the project or just hang around and have a chat."
-    date: 2016-03-03
+    date: 2016-03-03 16:00:00
     facebook: "https://www.facebook.com/events/239329893073230/"
+    allday: false
+    to: 2016-03-03 18:00:00
