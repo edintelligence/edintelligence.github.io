@@ -4,7 +4,14 @@
     image: "andreea.jpg"
     description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
     team: true
-
+    
+-    
+    id: 5
+    name: "Ben Möws"
+    image: "ben.jpg"
+    description: "With a background in both business and computer science, Ben's interest in AI started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching deep learning approaches to stock market analysis."
+    team: true
+    
 -
     id: 2
     name: "Jonathan Schwarz"
