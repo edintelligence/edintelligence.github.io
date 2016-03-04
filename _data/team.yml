@@ -9,7 +9,7 @@
     id: 5
     name: "Ben Möws"
     image: "ben.jpg"
-    description: "With a background in both business and computer science, Ben's interest in AI started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching deep learning approaches to stock market analysis."
+    description: "With a background in both business and computer science, Ben's interest in AI and statistics started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching lagged correlations in time series and deep learning approaches to stock market analysis."
     team: true
     
 -
