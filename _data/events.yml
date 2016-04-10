@@ -8,9 +8,30 @@
     facebook: "https://www.facebook.com/events/810344855761744/"
     allday: false
 
+-
+    id: 3
+    name: "Edintelligence presents: PhD research in Machine Learning"
+    published: true
+    description: "Edintelligence's second event will be a session of talks of PhD student giving insight into their research as well as giving the opportunity to learn more about doing a PhD within machine learning."
+    date: 2016-04-12 18:00:00
+    to: 2016-04-12 20:00:00
+    facebook: "https://www.facebook.com/events/1555787851387573/"
+    location: "Forrest Hill, 3.D01"
+    allday: false
 
 -
     id: 1
+    name: "Edintelligence presents: Machine Learning Interview Workshop with Amazon"
+    published: true
+    description: "To prepare our members for stepping into real life we are teaming up with the Amazon Development Centre in Edinburgh and holding an interview workshop targeted on machine learning roles at Amazon."
+    date: 2016-04-13 13:00:00
+    to: 2016-04-13 17:00:00
+    facebook: "https://www.facebook.com/events/1692952094304350/"
+    location: "Forrest Hill, 3.D01"
+    allday: false
+
+-
+    id: 2
     name: "Coding, project work and mingling session"
     published: true
     description: "This is our weekly informal working session. Everyone is welcome to join and either contribute to the project or just hang around and have a chat."
