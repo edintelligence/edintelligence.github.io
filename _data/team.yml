@@ -1,9 +1,19 @@
 -
+    id: 0
+    name: "Gonçalo Correia"
+    image: "goncalo.jpg"
+    description: "Gonçalo is studying Artificial Intelligence in The University of Edinburgh. He got interested in Machine Learning in an undergraduate project where he had to implement a simple Gradient Descent algorithm. He got increasingly passionate about Machine Learning and all its possibilities after reading books and following online courses on the topic and eventually pursued his newfound dream by applying to Edinburgh. He is interested in Computer Vision and Natural Language Processing applications of Machine Learning."
+    social:
+        - {name: "github", link: "https://github.com/goncalomcorreia"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/goncalommac"}
+    team: true
+
+-
     id: 4
     name: "Andreea Pascu"
     image: "andreea.jpg"
     description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
-    team: true
+    team: false
     
 -    
     id: 5
