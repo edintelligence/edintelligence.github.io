@@ -1,5 +1,15 @@
 
 -
+    id: 4
+    name: "Edintelligence Talks: PhD topic of Abel Gonzalez-Garcia"
+    published: true
+    description: "Abel is currently a PhD student at the University of Edinburgh. He will be discussing about his latest work ( http://arxiv.org/abs/1607.03738 ) as well as share some insights about his MSc in AI he took here in Edinburgh."
+    date: 2016-04-12 18:00:00
+    to: 2016-04-12 20:00:00
+    facebook: "https://www.facebook.com/events/1555787851387573/"
+    location: "Forrest Hill, 3.D01"
+    allday: false
+-
     id: 0
     name: "Edintelligence presents: Deep Learning and its applications in research"
     published: true
