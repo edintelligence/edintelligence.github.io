@@ -61,12 +61,12 @@
 #        - {name: "linkedin", link: "https://www.linkedin.com/in/nickpawlowski"}
 #    team: true
 
-#-
-#    id: 1
-#    name: "Todor Davchev"
-#    image: "todor.jpg"
-#    description: "Todor is interested in providing the world with innovative solutions. He studies and enjoys Artificial Intelligence and Machine Learning. As an enthusiastic and open-minded person, he is constantly looking for challenging opportunities that will expand and further enhance the world's knowledge and understanding of what intelligence is and how to apply it in the technology domain."
-#    social:
-#        - {name: "github", link: "https://github.com/yadrimz"}
-#        - {name: "twitter", link: "https://twitter.com/yadrimz"}
-#    team: true
+-
+    id: 1
+    name: "Todor Davchev"
+    image: "todor.jpg"
+    description: "Todor is interested in providing the world with innovative solutions. He studies and enjoys Artificial Intelligence and Machine Learning. As an enthusiastic and open-minded person, he is constantly looking for challenging opportunities that will expand and further enhance the world's knowledge and understanding of what intelligence is and how to apply it in the technology domain."
+    social:
+        - {name: "github", link: "https://github.com/yadrimz"}
+        - {name: "twitter", link: "https://twitter.com/yadrimz"}
+    team: true
