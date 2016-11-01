@@ -19,6 +19,13 @@
         - {name: "github", link: "https://github.com/ChthonicCrusader"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/agrawalshubham1729"}
     team: true
+-
+    id: 8
+    name: "Stefanie Sp"
+    image: "stefanie.jpg"
+    description: "Stefanie studies Data Science at the University of Edinburgh. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
+
+    team: true
 
 -
    id: 2
