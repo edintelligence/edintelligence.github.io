@@ -21,45 +21,45 @@
     team: true
 
 -
-#    id: 4
-#    name: "Andreea Pascu"
-#    image: "andreea.jpg"
-#    description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
-#    team: false
+   id: 4
+   name: "Andreea Pascu"
+   image: "andreea.jpg"
+   description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
+   team: null
     
-#-    
-#    id: 5
-#    name: "Ben Möws"
-#    image: "ben.jpg"
-#    description: "With a background in both business and computer science, Ben's interest in AI and statistics started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching lagged correlations in time series and deep learning approaches to stock market analysis."
-#    team: true
-#    
-#-
-#    id: 2
-#    name: "Jonathan Schwarz"
-#    image: "jonathan.jpg"
-#    description: "Jonathan got interested in Artificial Intelligence through his work on robotics during his undergraduate studies. Being fascinated by the possibility of allowing machines to learn, he decided to pursue a Master's in Edinburgh.
-#    He is now particularly keen on applying Deep Learning to language."
-#    social:
-#        - {name: "github", link: "https://github.com/jonathan-schwarz"}
-#    team: true
-#
-#-
-#    id: 3
-#    name: "Miguel Jacques"
-#    image: "miguel.jpg"
-#    description: "Miguel is an UoE M.Sc. Artificial Intelligence student."
-#    team: true
-#
-#-
-#    id: 0
-#    name: "Nick Pawlowski"
-#    image: "nick.jpg"
-#    description: "Nick just started following developments in AI quite recently, when a friend showed him Stanfords CS231n course on Convolutional Neural Networks. This made him switch from Physics to AI. He is now particularly interested in Reinforcement Learning."
-#    social:
-#        - {name: "github", link: "https://github.com/pawni"}
-#        - {name: "linkedin", link: "https://www.linkedin.com/in/nickpawlowski"}
-#    team: true
+-    
+   id: 5
+   name: "Ben Möws"
+   image: "ben.jpg"
+   description: "With a background in both business and computer science, Ben's interest in AI and statistics started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching lagged correlations in time series and deep learning approaches to stock market analysis."
+   team: null
+   
+-
+   id: 2
+   name: "Jonathan Schwarz"
+   image: "jonathan.jpg"
+   description: "Jonathan got interested in Artificial Intelligence through his work on robotics during his undergraduate studies. Being fascinated by the possibility of allowing machines to learn, he decided to pursue a Master's in Edinburgh.
+   He is now particularly keen on applying Deep Learning to language."
+   social:
+       - {name: "github", link: "https://github.com/jonathan-schwarz"}
+   team: null
+
+-
+   id: 3
+   name: "Miguel Jacques"
+   image: "miguel.jpg"
+   description: "Miguel is an UoE M.Sc. Artificial Intelligence student."
+   team: null
+
+-
+   id: 0
+   name: "Nick Pawlowski"
+   image: "nick.jpg"
+   description: "Nick just started following developments in AI quite recently, when a friend showed him Stanfords CS231n course on Convolutional Neural Networks. This made him switch from Physics to AI. He is now particularly interested in Reinforcement Learning."
+   social:
+       - {name: "github", link: "https://github.com/pawni"}
+       - {name: "linkedin", link: "https://www.linkedin.com/in/nickpawlowski"}
+   team: null
 
 -
     id: 1

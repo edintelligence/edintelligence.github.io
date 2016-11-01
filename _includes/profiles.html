@@ -13,7 +13,7 @@
 
                         <section>
                             <header>
-                                <h3>What is Edintelligence all about?</h3>
+                                <h3>What is EdIntelligence all about?</h3>
                             </header>
                         </section>
 
@@ -57,6 +57,32 @@
                         </div>
                         </section>
                         {% endif %} {% endfor %}
+
+                        <section>
+                            <header>
+                                <h3>Former Members</h3>
+                            </header>
+                        </section>
+
+                        {% for teamMember in site.data.team %} {% if teamMember.team == null %}
+                        <section>
+                        <div class="row 100%">
+                            <div class="3u 12u (narrower)">
+                            <a href="#" class="image member"><img src="{{ site.baseurl }}/images/{{ teamMember.image }}" alt="" /></a><br>
+                            </div>
+                            <div class="9u 12u(narrower)">
+                            <h3>{{ teamMember.name }}</h3>
+                            <p>
+                                {{ teamMember.description }}
+                            </p>
+                            {% for social in teamMember.social %}
+                            <a class="icon circle fa-{{ social["name"] }}" href="{{ social["link"] }}" ></a>
+                            {% endfor %}
+                            </div>
+                        </div>
+                        </section>
+                        {% endif %} {% endfor %}
+
                     </div>
 
             </div>
