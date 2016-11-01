@@ -33,4 +33,4 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/projects/", text: "Projects"}
  - {permalink: "/events/", text: "Events"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/about/", text: "About Us"}
