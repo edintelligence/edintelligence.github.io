@@ -1,5 +1,16 @@
 
 -
+    id: 5
+    name: "Edintelligence Talks: From flow charts to neurons - Structure and flexibility in dialogue systems"
+    published: true
+    description: "During this talk, Alan Nichol will discuss several approaches for building conversational software, on a spectrum from hand-coded to completely data driven. Interesting work is happening in the middle ground, where systems don’t rely on a rigid flow chart, but can still guide users and perform useful tasks. By making fewer assumptions, these systems show greater flexibility, but an increased need for training data. Additionally, Alan will talk about trade-offs in using end-to-end training of these models and draw connections with memory-augmented neural networks."
+    date: 2016-11-9 17:00:00
+    to: 2016-11-9 18:00:00
+    location: "3.10, 31 Buccleuch Place"
+    allday: false
+-
+
+-
     id: 4
     name: "Edintelligence Talks: PhD topic of Abel Gonzalez-Garcia"
     published: true
