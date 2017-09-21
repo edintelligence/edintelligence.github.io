@@ -1,5 +1,13 @@
 
 -
+    id: 8
+    name: "Stefanie Sp"
+    image: "stefanie.jpg"
+    description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
+
+    team: true
+
+-
     id: 1
     name: "Shubham Agrawal"
     image: "shubham.jpg"
@@ -7,23 +15,15 @@
     social:
         - {name: "github", link: "https://github.com/ChthonicCrusader"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/agrawalshubham1729"}
-    team: true
+    team: null
 -
     id: 0
     name: "Gonçalo Correia"
     image: "goncalo.jpg"
-    description: "Gonçalo is studying Artificial Intelligence in The University of Edinburgh. He got interested in Machine Learning in an undergraduate project where he had to implement a simple Gradient Descent algorithm. He got increasingly passionate about Machine Learning and all its possibilities after reading books and following online courses on the topic and eventually pursued his newfound dream by applying to Edinburgh. He is interested in using Machine Learning in Computer Vision and Natural Language Processing."
+    description: "Gonçalo is studying Artificial Intelligence in The University of Edinburgh. He got interested in Machine Learning in an undergraduate project where he got increasingly passionate about Machine Learning and all its possibilities after reading books and following online courses on the topic and eventually pursued his newfound dream by applying to Edinburgh. He is interested in using Machine Learning in Computer Vision and Natural Language Processing."
     social:
         - {name: "github", link: "https://github.com/goncalomcorreia"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/goncalommac"}
-    team: true
-
--
-    id: 8
-    name: "Stefanie Sp"
-    image: "stefanie.jpg"
-    description: "Stefanie studies Data Science at the University of Edinburgh. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
-
     team: true
 
 -
@@ -42,14 +42,14 @@
    image: "andreea.jpg"
    description: "Andreea is interested in various applications of Machine Learning and how it can be applied for discovering interesting patterns and behaviour, in all sorts of data. She is currently doing her Master's at University of Edinburgh and is looking forward to applying the new skills for solving challenges that the industry faces."
    team: null
-    
--    
+
+-
    id: 3
    name: "Ben Möws"
    image: "ben.jpg"
    description: "With a background in both business and computer science, Ben's interest in AI and statistics started during his undergraduate work on portfolio selection and optimisation. He subsequently worked in Audi AG's R&D branch and currently pursues an MSc in Artificial Intelligence, researching lagged correlations in time series and deep learning approaches to stock market analysis."
    team: null
-   
+
 -
    id: 4
    name: "Jonathan Schwarz"
@@ -58,14 +58,14 @@
    He is now particularly keen on applying Deep Learning to language."
    social:
        - {name: "github", link: "https://github.com/jonathan-schwarz"}
-   team: null
+   team: true
 
 -
    id: 5
    name: "Miguel Jacques"
    image: "miguel.jpg"
    description: "Miguel is an UoE M.Sc. Artificial Intelligence student."
-   team: null
+   team: true
 
 -
    id: 6

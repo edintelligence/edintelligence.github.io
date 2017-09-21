@@ -1,4 +1,84 @@
+-
+    id: 12
+    name: "Sharon Goldwater: Language learning in humans and machines"
+    published: true
+    description: "Computer processing of speech and language has advanced enormously in
+the last decade, with many people now using applications such as
+automatic translation, voice-activated search, and even language-enabled personal assistants. Yet these systems still lag far behind human capabilities, and the success they do have relies on
+machine learning methods that learn from very large quantities of human-annotated data (for example speech data with transcriptions or text labelled with syntactic parse trees). These resource-intensive methods mean that effective technology is available for only a tiny fraction of the world's 5000 or more languages, mainly those spoken in
+large rich countries.
 
+This talk will argue that in order to solve this problem, we need a
+better understanding of how humans learn and represent language in our
+minds, and we need to consider how human-like learning biases can be
+built into computational systems. Sharon Goldwater will illustrate these ideas using
+examples from her own research. She will discuss why language is such a
+difficult problem, say a bit about what we know about human language
+learning, and then show how her own work has taken inspiration from
+that to develop better methods for computational language learning."
+    date: 2017-28 17:00:00
+    to: 2017-06-28 18:00:00
+    location: "Teviot Row House"
+    allday: false
+-
+    id: 11
+    name: "Chris Williams: Linear Dynamical Systems in Intensive Care Units"
+    published: true
+    description: "In this talk Chris Williams will describe the application of a
+switching linear dynamical model to monitoring the condition
+of a patient receiving intensive care. The state of health of
+a patient cannot be observed directly, but different underlying factors
+are associated with particular patterns of measurements, e.g. in the
+heart rate, blood pressure and temperature."
+    date: 2017-06-21 17:00:00
+    to: 2017-06-21 18:00:00
+    location: "Teviot Row House"
+    allday: false
+-
+    id: 10
+    name: "Charles Sutton: Machine Learning for Data Exploration"
+    published: true
+    description: "One of the first and most fundamental tasks in data mining is what we might call data understanding. Given a dump of data, what’s in it? If modern machine learning methods are effective at finding patterns in data, then they should be effective at summarizing data sets so as to help data analysts develop a high-level understanding of them."
+    date: 2017-06-14 17:00:00
+    to: 2017-06-14 18:00:00
+    location: "Teviot Row House"
+    allday: false
+-
+    id: 9
+    name: "Amazon Machine Learning Interview Workshop"
+    published: true
+    description: "At this event, we’ll discuss machine learning roles at Amazon Development Centre Scotland (and Amazon more broadly) and what they entail. We’ll also do practice interview questions for a machine learning scientist interview and discuss what we’re typically looking for and how to do well."
+    date: 2017-04-21 14:00:00
+    to: 2017-04-21 16:00:00
+    location: "Amazon Development Centre Scotland"
+    allday: false
+-
+    id: 8
+    name: "Law and Artificial Intelligence Hackathon"
+    published: true
+    description: ""
+    date: 2017-03-31 13:00:00
+    to: 2017-03-31 20:00:00
+    location: "Edinburgh Outreach Centre, 9c Holyrood Road"
+    allday: false
+-
+    id: 7
+    name: "Edintelligence Talks: Simple techniques (and challenges) to do semi-supervised learning with neural network models with Miguel Jaques"
+    published: true
+    description: "In recent years, the developments in unsupervised learning methods like Variational Autoencoders, Generative Adversarial Networks and Ladder Networks have lead to good results in semi-supervised tasks using neural networks. In this talk will be presented a much simpler class of methods recently proposed for semi-supervised learning (which achieve SOTA in visual tasks). These do not stem directly from any of the unsupervised methods mentioned. Instead they rely on using random inputs perturbations, temporal ensembles and consistency costs to obtain better results much more efficiently."
+    date: 2017-02-3 17:00:00
+    to: 2017-02-3 18:00:00
+    location: "David Hume Tower, LG.11"
+    allday: false
+-
+    id: 6
+    name: "Innovative Machine Learning Week Competition"
+    published: true
+    description: ""
+    date: 2017-02-20 18:00:00
+    to: 2017-02-26 18:00:00
+    location: ""
+    allday: false
 -
     id: 5
     name: "Edintelligence Talks: From flow charts to neurons - Structure and flexibility in dialogue systems"
@@ -8,8 +88,6 @@
     to: 2016-11-9 18:00:00
     location: "3.10, 31 Buccleuch Place"
     allday: false
--
-
 -
     id: 4
     name: "Edintelligence Talks: PhD topic of Abel Gonzalez-Garcia"
