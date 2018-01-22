@@ -6,16 +6,49 @@
     description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
 
     team: true
+    current: true
 
 -
     id: 1
-    name: "Shubham Agrawal"
-    image: "shubham.jpg"
-    description: "Shubham got interested in Artificial Intelligence through his work on Neural Networks during his undergraduate. Being fascinated by the possibility of allowing machines to learn, he decided to pursue a Master's in Edinburgh. He is now particularly keen on applying Deep Learning to speech synthesis."
+    name: "Martin Asenov"
+    image: "martin.jpg"
+    description: "Currently, I am a PhD student at the University of Edinburgh, working on active sensing with UAV, in collaboration with Heriot-Watt University and the Defence Science and Technology Laboratory.
+
+Currently I am looking into the problem of active sensing using UAV mounted sensors (chemical, light, wing, etc.). For the purpose I am building probabilistic models of the entire field of interest (using Gaussian Processes for example), to inform sampling picking places of high uncertainty or possible highest readings. I am also interested in modular neural networks and physics engines to try to actively model dynamics of real-world scenes."
     social:
-        - {name: "github", link: "https://github.com/ChthonicCrusader"}
-        - {name: "linkedin", link: "https://www.linkedin.com/in/agrawalshubham1729"}
-    team: null
+        - {name: "user", link: "https://masenov.github.io"}
+    team: true 
+    current : true
+-
+    id: 0
+    name: "Leona Goeb"
+    image: "leona.jpg"
+    description: "Leona studies Cognitive Science as an MSc student at the University of Edinburgh. Her special interest is in the field of Natural Language Processing. In the society, she holds the position of treasurer."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Lauren Watson"
+    image: "lauren.jpg"
+    description: "Lauren studies Artifical Intelligence at the University of Edinburgh after becoming interested in the use of Bayesian methods in machine learning during her Undergraduate degree. She is also particularly interested in approximate inference and, recently, natural language processing."
+    team: true
+    current: true
+
+-
+    id: 0
+    name: "Joshua Uwaifo"
+    image: "joshua.jpg"
+    description: "Joshua is specialising in Machine Learning (ML) during his Artificial Intelligence masters degree.
+He aims to use technology as another medium to love one another.  
+His first formal interaction with ML began with a bootcamp hosted by Cambridge Spark 2 years ago coupled with a data science role at Cleveland Clinic Abu Dhabi. 
+His discrete maths undergraduate project/thesis at Warwick University involved using machine learning to help in modelling smart transfer decisions in football. 
+Currently, he is also working part time as a data science for a Germany-based venture capitalist, Earlybird. The modules he took/is taking are IAML, MLPR, MLP, RL, PMR and DME. Always here to help 🙌"
+    social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ojuwaifo/"}
+    team: true
+    current: true
+
+
 -
     id: 0
     name: "Gonçalo Correia"
@@ -25,7 +58,6 @@
         - {name: "github", link: "https://github.com/goncalomcorreia"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/goncalommac"}
     team: true
-
 -
     id: 9
     name: "Cian Eastwood"

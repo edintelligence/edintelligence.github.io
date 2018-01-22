@@ -1,7 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
-safe: false
+safe: true
 
 # Build Settings
 markdown: kramdown
@@ -14,8 +14,8 @@ title: "Edintelligence | Machine Learning Society"
 #email: ""
 description: "Machine Learning Society of the University of Edinburgh"
 baseurl: ""
-url: "https://edintelligence.github.io"
-#url: "http://localhost:4000"
+#url: "https://edintelligence.github.io"
+url: "http://localhost:4000"
 #permalink: "/blog/:title"
 
 
@@ -31,6 +31,5 @@ googleAnalyticsSiteUrl: "auto"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/projects/", text: "Projects"}
  - {permalink: "/events/", text: "Events"}
  - {permalink: "/about/", text: "About Us"}

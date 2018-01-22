@@ -1,4 +1,58 @@
 -
+    id: 15
+    name: "Welcome Back Social"
+    published: true
+    description: "Welcome back to a new term with EdIntelligence!
+<br/>
+Come chat about AI, Machine Learning and all things in between this Friday."
+    date: 2018-01-19 19:00:00
+    to: 2018-01-19 24:00:00
+    location: "The Pear Tree"
+    allday: false
+    img: "social.jpg"
+    facebook: "https://www.facebook.com/events/1732474863493606/"
+-
+    id: 14
+    name: "Mini NIPS"
+    published: true
+    description: "The Conference on Neural Information Processing Systems (NIPS) is one of the most prestigous machine learning and computational neuroscience conference. In light of this we present three speakers from the University of Edinburgh's own cohort whose papers have been accepted to NIPS. Catered lunch will be provided afterwards.
+The presented papers are: 
+<br /><br />
+Masked Autoregressive Flow for Density Estimation; Papamakarios, George, Theo Pavlakou, and Iain Murray
+<a>https://arxiv.org/abs/1705.07057</a>
+<br /><br />
+VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning.; Srivastava, Akash, Lazar Valkov, Chris Russell, Michael Gutmann, and Charles Sutton. 
+<br />
+<a>https://arxiv.org/abs/1705.07761</a>
+<br /><br />
+
+Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols.; Serhii Havrylov and Ivan Titov.
+<br />
+<a>https://arxiv.org/abs/1705.11192</a>
+<br /><br />
+"
+    date: 2017-11-29 12:00:00
+    to: 2017-11-29 14:00:00
+    location: "Lecture Theatre B, David Hume Tower"
+    allday: false
+    img: "mininips.jpg"
+    facebook: "https://www.facebook.com/events/148324265788229/"
+-
+    id: 13
+    name: "AlphaGo Screening"
+    published: true
+    description: "EdIntelligence is pleased to present, in association with Google DeepMind, an exclusive, pre-release film screening of Alphago, the documentary movie of DeepMind’s rise to fame and the gripping tale of AI vs. Man.
+Directed by Greg Kohs with an original score by Academy Award nominee, Hauschka, AlphaGo chronicles a journey from the halls of Oxford, through the backstreets of Bordeaux, past the coding terminals of Google DeepMind in London, and ultimately, to the seven-day tournament in Seoul. As the drama unfolds, more questions emerge: What can artificial intelligence reveal about a 3000-year-old game? What can it teach us about humanity? 
+    <br/><br/>
+    "
+    date: 2017-11-16 18:00:00
+    to: 2017-11-16 20:00:00
+    location: "Lecture Theatre G.03, David Hume Tower Lecture Theatre B"
+    allday: false
+    img: "alphago.png"
+    facebook: "https://www.facebook.com/events/143068613000328/"
+
+-
     id: 12
     name: "Sharon Goldwater: Language learning in humans and machines"
     published: true
@@ -16,7 +70,7 @@ examples from her own research. She will discuss why language is such a
 difficult problem, say a bit about what we know about human language
 learning, and then show how her own work has taken inspiration from
 that to develop better methods for computational language learning."
-    date: 2017-28 17:00:00
+    date: 2017-06-28 17:00:00
     to: 2017-06-28 18:00:00
     location: "Teviot Row House"
     allday: false

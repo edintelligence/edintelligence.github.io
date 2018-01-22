@@ -38,13 +38,13 @@
                         {% if eventtime > nowunix %}
                         <div class="row 100% 12u 12u(narrower)" style="padding-left:1em;margin-bottom:1em;">
                             <h4 style="width: 100%">{% if event.allday == true %}
-                                {{ event.date | date: "%d. %b %y" }}{% else %}{{ event.date | date: "%d. %b %y, %H:%M"}}{% endif %}: {{ event.name }}</h4>
-
-                            <p style="margin-top: -10pt; margin-left: 25pt; width:100%; padding-top:0px; margin-bottom:0px;">
+                                {{ event.date | date: "%d. %b %y" }}{% else %}{{ event.date | date: "%d. %b %y, %H:%M"}}{% endif %}: <b>{{ event.name }}</b></h4>
+                            <p style="margin-top: -10pt; margin-left: 25pt; width:55%; padding-top:0px; margin-bottom:0px; display: inline-block;">
                                 {{ event.description }}
                             </p>
+                            <a style="margin-top: -10pt; margin-left: 25pt; width:35%; padding-top:0px; margin-bottom:0px; display: inline-block;" class="image featured"><img src="{{ site.baseurl }}/images/{{ event.img }}" alt="" /></a>
                             {% if event.location != null %}
-                            <p style="margin-left: 25pt; padding-top:0px; margin-right:60%">
+                            <p style="margin-left: 0pt; padding-top:0px; width: :35%; display: inline-block;">
                                 Location: {{ event.location }}
                             </p>
                             {% endif %}
@@ -69,10 +69,13 @@
                         {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
                         {% if eventtime < nowunix %}
                         <div class="row 100% 12u 12u(narrower)" style="padding-left:1em; margin-bottom:1em;">
-                            <h4 style="width: 100%">{{ event.date | date: "%d. %b %y"}}: {{ event.name }}</h4>
+                            <h3 style="width: 100%">{{ event.date | date: "%d. %b %y"}}: <b>{{ event.name }}</b></h3>
 
                             <p style="margin-top: -10pt; margin-left: 25pt; width:100%; padding-top:0px; margin-bottom:0px;">
                                 {{ event.description }}
+                            </p>
+                            <p>
+                            <a style="margin-top: -10pt; margin-left: 25pt; width:35%; padding-top:0px;padding-left:0px; margin-bottom:0px; display: inline-block;" class="image featured"><img src="{{ site.baseurl }}/images/{{ event.img }}" alt="" /></a>
                             </p>
                             {% if event.facebook != null %}
                             <p style="margin-left: 25pt; padding-top:0px">
