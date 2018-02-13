@@ -1,4 +1,31 @@
 -
+    id: 16
+    name: "AI Challenge"
+    published: true
+    description: "
+Clarification: you do not need to be free all week to participate! We specifically designed this to take the whole week so that you DON'T have to spend a few days crammed up somewhere but can measure your own time and work on it whenever you and your teammates are free!
+
+Challenge yourself this Creative Learning Week with EdIntelligence! We invite people of all levels to join us for a Kaggle inspired Machine Learning Hackathon. 
+
+1st Prize: 1 Amazon Echo Dot per team member
+2nd Prize: 1 Amazon £30 gift card per team member
+3rd Prize: 1 Amazon £20 gift card per team member
+
+Day 1: Pizza, Introductions, Team Building and Dataset Info
+Days 2-4: Team Hacking
+Day 5: Judging, Prizes, Food and Fun
+
+Make sure to sign up for FREE to secure your spot!
+"
+    date: 2018-02-19 12:00:00
+    to: 2018-02-23 14:00:00
+    location: "Lister Building, 3.2"
+    allday: false
+    img: "aichallenge.jpg"
+    facebook: "https://www.facebook.com/events/326571147853818/"
+
+
+-
     id: 15
     name: "Welcome Back Social"
     published: true
