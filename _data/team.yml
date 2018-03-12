@@ -21,7 +21,7 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     current : true
 -
     id: 0
-    name: "Leona Goeb"
+    name: "Leona Goebbels"
     image: "leona.jpg"
     description: "Leona studies Cognitive Science as an MSc student at the University of Edinburgh. Her special interest is in the field of Natural Language Processing. In the society, she holds the position of treasurer."
     team: true
