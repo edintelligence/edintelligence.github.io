@@ -1,4 +1,51 @@
 -
+    id: 17
+    name: "mini-ICLR"
+    published: true
+    description: "
+We are excited to announce our next event: mini-ICLR.
+
+Similarly to mini-NIPS last semester, we have invited faculty members* to present their papers accepted to ICLR 2018.
+
+
+<br /><br />
+Papers presented:
+
+<br /><br />
+-
+Title: A framework for the quantitative evaluation of disentangled representations
+Authors: Cian Eastwood*, Chris Williams
+
+<br /><br />
+<a href=\"http://homepages.inf.ed.ac.uk/ckiw/postscript/iclr_final.pdf\">http://homepages.inf.ed.ac.uk/ckiw/postscript/iclr_final.pdf</a>
+
+<br /><br />
+-
+Title: SMASH: One-Shot Model Architecture Search through HyperNetworks
+Authors: Andrew Brock*, Theo Lim, James Ritchie, Nick Weston
+
+<br /><br />
+<a href=\"https://arxiv.org/abs/1708.05344\">https://arxiv.org/abs/1708.05344</a>
+
+<br /><br />
+-
+Title: Synthesizing realistic neural population activity patterns using Generative Adversarial Networks
+Authors: Manuel Molano, Eugenio Piasini, Arno Onken*, Stefano Panzeri
+
+<br /><br />
+<a href=\"https://arxiv.org/abs/1803.00338\">https://arxiv.org/abs/1803.00338</a>
+"
+    date: 2018-04-16 14:00:00
+    to: 2018-04-16 15:00:00
+    location: "Informatics Forum, G.07"
+    allday: false
+    img: "miniiclr.jpg"
+    facebook: "https://www.facebook.com/events/237604943476619/"
+
+
+
+
+-
     id: 16
     name: "AI Challenge"
     published: true
@@ -46,16 +93,16 @@ Come chat about AI, Machine Learning and all things in between this Friday."
 The presented papers are: 
 <br /><br />
 Masked Autoregressive Flow for Density Estimation; Papamakarios, George, Theo Pavlakou, and Iain Murray
-<a>https://arxiv.org/abs/1705.07057</a>
+<a href=\"https://arxiv.org/abs/1705.07057\">https://arxiv.org/abs/1705.07057</a>
 <br /><br />
 VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning.; Srivastava, Akash, Lazar Valkov, Chris Russell, Michael Gutmann, and Charles Sutton. 
 <br />
-<a>https://arxiv.org/abs/1705.07761</a>
+<a href=\"https://arxiv.org/abs/1705.07761\">https://arxiv.org/abs/1705.07761</a>
 <br /><br />
 
 Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols.; Serhii Havrylov and Ivan Titov.
 <br />
-<a>https://arxiv.org/abs/1705.11192</a>
+<a href=\"https://arxiv.org/abs/1705.11192\">https://arxiv.org/abs/1705.11192</a>
 <br /><br />
 "
     date: 2017-11-29 12:00:00

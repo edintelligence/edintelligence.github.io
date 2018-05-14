@@ -9,6 +9,13 @@
     current: true
 
 -
+    id: 8
+    name: "Kristian Boda"
+    image: "kristian.jpg"
+    description: "Kristian is co-president of Edintelligence. He has a background in financial services, but has recently taken time away to pursue interests in machine learning (MSc. A.I.)."
+    team: true 
+    current : true
+-
     id: 1
     name: "Martin Asenov"
     image: "martin.jpg"
@@ -17,9 +24,13 @@
 Currently I am looking into the problem of active sensing using UAV mounted sensors (chemical, light, wing, etc.). For the purpose I am building probabilistic models of the entire field of interest (using Gaussian Processes for example), to inform sampling picking places of high uncertainty or possible highest readings. I am also interested in modular neural networks and physics engines to try to actively model dynamics of real-world scenes."
     social:
         - {name: "user", link: "https://masenov.github.io"}
+        - {name: "github", link: "https://github.com/masenov"}
+        - {name: "twitter", link: "https://twitter.com/masenov1"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/masenov1/"}
     team: true 
     current : true
 -
+
     id: 0
     name: "Leona Goebbels"
     image: "leona.jpg"
@@ -31,6 +42,13 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     name: "Lauren Watson"
     image: "lauren.jpg"
     description: "Lauren studies Artifical Intelligence at the University of Edinburgh after becoming interested in the use of Bayesian methods in machine learning during her Undergraduate degree. She is also particularly interested in approximate inference and, recently, natural language processing."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Sarah Halpin"
+    image: "sarah.jpg"
+    description: "Sarah is studying for an MSc in Artificial Intelligence, specialising in natural language processing and cognitive science. She is particularly interested in applying data science and AI to solve problems in society and medicine."
     team: true
     current: true
 
@@ -45,8 +63,7 @@ His discrete maths undergraduate project/thesis at Warwick University involved u
 Currently, he is also working part time as a data science for a Germany-based venture capitalist, Earlybird. The modules he took/is taking are IAML, MLPR, MLP, RL, PMR and DME. Always here to help 🙌"
     social:
         - {name: "linkedin", link: "https://www.linkedin.com/in/ojuwaifo/"}
-    team: true
-    current: true
+    team: null
 
 
 -
