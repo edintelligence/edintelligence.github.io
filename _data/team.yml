@@ -12,9 +12,8 @@
     id: 8
     name: "Kristian Boda"
     image: "kristian.jpg"
-    description: "Kristian is co-president of Edintelligence. He has a background in financial services, but has recently taken time away to pursue interests in machine learning (MSc. A.I.)."
+    description: "Kristian was a co-president of Edintelligence. He has a background in financial services, but has recently taken time away to pursue interests in machine learning (MSc. A.I.)."
     team: true 
-    current : true
 -
     id: 1
     name: "Martin Asenov"
@@ -36,7 +35,6 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     image: "leona.jpg"
     description: "Leona studies Cognitive Science as an MSc student at the University of Edinburgh. Her special interest is in the field of Natural Language Processing. In the society, she holds the position of treasurer."
     team: true
-    current: true
 -
     id: 0
     name: "Lauren Watson"
@@ -46,11 +44,59 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     current: true
 -
     id: 0
+    name: "Arun Raja"
+    image: "arun.jpg"
+    description: "Arun Raja is passionate about employing Artificial Intelligence in solving problems related to the fields of healthcare and transport. He is currently an undergraduate student pursuing Artificial Intelligence and Computer Science at The University of Edinburgh. He has been awarded the National Science Scholarship by the Agency for Science, Technology and Research, Singapore, to pursue his undergraduate studies.  He hopes to delve deeper into the field of Natural Language Processing to improve the communication between man and machine."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Daniel Miskell"
+    image: "daniel.jpg"
+    description: "Daniel is our Start-up Coordinator. With valuable experience setting up AI focused businesses, he is the link between our members and the start up scene. Helping our members discover exciting opportunities and educating them to bring their own ideas to life! He is currently studying a MSc in Artificial Intelligence, with a research interest in Deep Reinforcement Learning for Robotics and the applications it brings."
+    team: true
+    current: true
+-
+    id: 0
+    name: "David Wilmot"
+    image: "david.jpg"
+    description: "David Wilmot is a Phd Student within the ILCC (Institute Language Cognition and Computation) researching the understanding of multimodal narratives. Prior to this, he spent a long time working commercially as a Software Engineer and Business Analyst in Industry for major financial services firms and in startups."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Hansun Lee"
+    image: "hansun.jpg"
+    description: "With experience in finance and IT sectors, Hansun joined the AI program with passion for developing algorithms which have the power to extract the right information from a vast amount of data. Through EdIntelligence, she aims to build a bridge between the University and business sectors so as adequate match may be made. Excited to be part of burgeoning society with new roles and growing department. "
+    team: true
+    current: true
+-
+    id: 0
+    name: "Ioana Bozduga"
+    image: "ioana.jpg"
+    description: "My name is Ioana Buzduga and I am the Academic Coordinator for Ed Intelligence this year. I am a 2nd year Computer Science student from Romania. Currently I am a Resident Assistant for a University Accommodation, Brae House as well as I am the Publicity and Media Responsible for Edinburgh Bhangra Crew, a society for Indian Dance. I joined this year this society, because I think it will be a huge method to improve my knowledge, but also an opportunity to meet people who can inspire me. I decided to be Academic Coordinator, because I would like to organize useful and interesting talks for postgraduates, but also for undergraduates. What’s more, I would like to create more facilities for students to learn more about Machine Learning and build their path for a successful career. "
+    team: true
+    current: true
+-
+    id: 0
+    name: "Jonathan Smellie"
+    image: "jonathans.jpg"
+    description: "Jonathan studies Systems and Synthetic Biology at the University of Edinburgh. He is particularly interested in applying machine learning to genomics and precision medicine. In pursuit of this goal he is also undertaking the Postgraduate Professional Development course in Data Science and innovation at Edinburgh."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Martin-Philipp Irsch"
+    image: "martin-philipp.jpg"
+    description: "Martin-Philipp studies Artifical Intelligence at the University of Edinburgh. His background is in Mechanical Engineering with a focus on automotive applications. Machine learning fueled his interest while searching for new solutions in solving complex control tasks in automotive cooling. Thus, he is interested in reinforcement learning and, recently, natural language processing."
+    team: true
+    current: true
+-
+    id: 0
     name: "Sarah Halpin"
     image: "sarah.jpg"
     description: "Sarah is studying for an MSc in Artificial Intelligence, specialising in natural language processing and cognitive science. She is particularly interested in applying data science and AI to solve problems in society and medicine."
     team: true
-    current: true
 
 -
     id: 0
@@ -135,4 +181,5 @@ Currently, he is also working part time as a data science for a Germany-based ve
         - {name: "github", link: "https://github.com/yadrimz"}
         - {name: "twitter", link: "https://twitter.com/yadrimz"}
     team: true
+    current: true
 -
