@@ -1,11 +1,26 @@
-
 -
     id: 8
     name: "Stefanie Sp"
     image: "stefanie.jpg"
     description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
-
     team: true
+    current: true
+-
+    id: 8
+    name: "Mark Klaisoongnoen"
+    image: "mark.jpg"
+    description: "Mark studies High Performance Computing at EPCC (Edinburgh Parallel Computing Centre) and University of Edinburgh. Combining commercial experience in data science and software engineering he is passionate about machine learning techniques and their application. With EdIntelligence and its team the Co-President strives to provide deep insights into AI and ML in industry and research to all students at the University of Edinburgh."
+    social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/tanawat-mark-klaisoongnoen-049550127/"}
+    team: true 
+    current: true
+
+-
+    id: 8
+    name: "Mari Liis Pedak"
+    image: "mari.png"
+    description: "Mari Liis is a Master's student in Artificial Intelligence, and the Vice President of EdIntelligence. She is particularly intrigued by the mathematical methods underpinning machine learning, and could envision herself researching the theoretical foundations of machine learning in the future. During her BSc studies in Mathematics and Physics she developed a keen interest in all things data, having applied various data analysis techniques to studying astrophysical phenomena and building satellites! She is also passionate about ethics of AI, and aspires to ensure that everyone in society benefits from the developments in the field."
+    team: true 
     current: true
 
 -
@@ -81,7 +96,7 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     id: 0
     name: "Jonathan Smellie"
     image: "jonathans.jpg"
-    description: "Jonathan studies Systems and Synthetic Biology at the University of Edinburgh. He is particularly interested in applying machine learning to genomics and precision medicine. In pursuit of this goal he is also undertaking the Postgraduate Professional Development course in Data Science and innovation at Edinburgh."
+    description: "Jonathan acts as a business coordinator team member of Edintelligence. He is currently studying Systems and Synthetic Biology at the University of Edinburgh and has an interest in applying machine learning to genomics and precision medicine. In pursuit of this goal he is also undertaking the Postgraduate Professional Development course in Data Science, Technology and Innovation at the school of Informatics."
     team: true
     current: true
 -
@@ -183,3 +198,25 @@ Currently, he is also working part time as a data science for a Germany-based ve
     team: true
     current: true
 -
+    id: 7
+    name: "Paolo Marangio"
+    image: "paolo.jpg"
+    description: "Paolo is a biologist by training and an Edinburgh local, having lived here for 3 years while undertaking a MSc in Synthetic Biology and Biotechnology and subsequently working at the industrial biotechnology company Ingenza. He is deeply interested in the application of computing and biology for solving challenges in the field of healthcare and sustainability. As such, he decided to take on a new challenge and pursue a MSc in High Performance Computing with Data Science. He has previous start-up and university society experience and will be a flexible general member at EdIntelligence."
+    team: true
+    current: true
+-
+    id: 7
+    name: "Xing Wang"
+    image: "xing.jpg"
+    description: "Xing Wang studies Data Science as an MSc student at the University of Edinburgh. He has a background in Materials Science and now is particularly interested in Natural Language Processing."
+    team: true
+    current: true
+-
+    id: 7
+    name: "Danuphan"
+    image: "danuphan.jpg"
+    description: "I am passionate about Maths and Coding, and following a career path where Maths and coding perfectly fit together. I am very keen to know how each ML algorithm was developed and how to customize them. Apart from academics, I love taking photo, traveling, and sight-seeing. Oh, and really love playing badminton :D"
+    team: true
+    current: true
+
+

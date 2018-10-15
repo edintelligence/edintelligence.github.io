@@ -1,4 +1,85 @@
 -
+    id: 21
+    name: "Machine Learning with Codeplay"
+    published: true
+    description: "
+Codeplay and EdIntelligence have partnered up to bring you an evening full of Machine Learning and Codeplay!
+
+You will gain an inside look on the kind of real-world projects that Machine Learning is used for at Codeplay. Afterwards, you can get to know EdIntelligence and Codeplay over food and drinks.
+
+
+The event is free of charge and food and drinks are provided.
+
+-------------
+This event is for EdIntelligence members only. If you have not done so yet, please sign up at <a href=\"https://www.eusa.ed.ac.uk/activities/societies/society/17462/\">https://www.eusa.ed.ac.uk/activities/societies/society/17462/</a>. Completely FREE of charge."
+    date: 2018-10-17 17:00:00
+    to: 2018-10-17 20:00:00
+    location: "Appleton Tower"
+    allday: false
+    img: "codeplay.jpg"
+    facebook: "https://www.facebook.com/events/465180003989594/"
+-
+    id: 20
+    name: "Artificial Intelligence Welcome"
+    published: true
+    description: "
+Welcome to a new year at the University of Edinburgh!
+
+Whether you are a new MSc or PhD in Informatics or you are a recurring student interested in AI we invite everyone to our free AI welcome social!
+
+Get to know others with the same interest, socialise, learn about the society and, most important, have fun!
+
+We also have a number of committee positions currently open! If you are interested talk to me at the social, have a read through the roles or simply fill out this form: <a href=\"https://goo.gl/forms/lW0c3GLlvKOxN7jD2\">https://goo.gl/forms/lW0c3GLlvKOxN7jD2</a>"
+    date: 2018-09-17 20:00:00
+    to: 2018-09-17 23:30:00
+    location: "Harry's Southside"
+    allday: false
+    img: "welcome18.jpg"
+    facebook: "https://www.facebook.com/events/1823501601104853/"
+-
+    id: 19
+    name: "Artificial Intelligence Career Fair"
+    published: true
+    description: "
+Submit your CV, get on-the-spot interviews, participate in talks and workshops, meet leading AI companies such as Facebook and Microsoft, welcome to EdIntelligence's AI Career Fair!
+<a href=\"https://edintelligence.github.io/fair\">https://edintelligence.github.io/fair</a>
+
+
+Do you use Artificial Intelligence techniques in your studies and think about working in the sector?
+
+No matter if you are doing a PhD in Physics, studying AI in your Masters or are a curious Bachelor student, we welcome everyone with knowledge in Machine Learning, Deep Learning, Natural Language Processing, High-Performance Computing, Vision/ Imaging or anything related from all programmes!
+
+At our career fair you can:
+
+- meet companies such as Microsoft, Facebook, Lloyds Banking Group, Five AI and Skyscanner ( for a full list see our website: <a href=\"https://edintelligence.github.io/fair/companies.html\">https://edintelligence.github.io/fair/companies.html</a>)
+- submit your CV beforehand to have companies contact you and increase your chance to...
+- score an interview at the day through our on-the-spot interviews.
+- listen to talks and workshops that are held throughout the day. (You can find a provisional schedule at <a href=\"https://edintelligence.github.io/fair/schedule.html\">https://edintelligence.github.io/fair/schedule.html</a>)
+- simply explore the AI company space from startups to large companies!
+
+If you are a student or recent graduate from ANY university and interested in AI get your free tickets as long as we still have some!"
+    date: 2018-06-19 10:30:00
+    to: 2018-06-19 16:00:00
+    location: "Informatics Forum"
+    allday: false
+    img: "fair.jpg"
+    facebook: "https://www.facebook.com/events/254098721817439/"
+-
+    id: 18
+    name: "Start of Summer Social"
+    published: true
+    description: "
+Edinburgh summer is here!
+
+Join us this Friday to chat about AI, Dissertations and everything in between.
+"
+    date: 2018-06-08 19:30:00
+    to: 2018-06-08 23:59:00
+    location: "McSorley's Bar Edinburgh"
+    allday: false
+    img: "newlogo.jpg"
+    facebook: "https://www.facebook.com/events/2168247423461896/"
+-
     id: 17
     name: "mini-ICLR"
     published: true
