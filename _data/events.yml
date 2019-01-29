@@ -1,4 +1,160 @@
 -
+    id: 27
+    name: "We Need To Talk About AI series - #1 'AI, Big Data and Me'"
+    published: true
+    description: "
+NB: Currently sold out - watch this space for more info, and do keep an eye for future events!
+
+</br>
+First in a series of public discussion, the event will cover issues around data and privacy, focusing on the impact of the Big Data industry on our privacy and society as a whole.
+
+</br>
+Facebook, Google, Amazon, and other websites, financial services companies and even home utility suppliers (through smart devices) are capable of collating vast amounts of personal data. But do we, the society, know what data they collect and what it is used for? Personal data is a commodity that can be sold and bought and used for marketing purposes, but also to manipulate election outcomes and restrict access to services like healthcare or housing. It has been shown that content customised using this data can be used effectively to influence people’s personal beliefs and choices.
+
+</br>
+Do you know how your personal data is used? Do you know what control over your personal information you have? Come and find out!
+
+</br>
+Panel:
+</br>
+</br>
+•	Lilian Edwards is the Professor of Law, Innovation and Society at Newcastle Law School at Newcastle University. Additionally, she is a member of the Advisory Board of the Open Rights Group and the Foundation for Internet Privacy Research. She is much in demand as an academic speaker on issues of Internet law, intellectual property, and artificial intelligence. She has appeared at the BBC Blue Room roundtable on the future of AI, the New Scientist Live on AI, and several programmes on BBC Radio 4, among others. She is a self-proclaimed “GDPR nerd and total geek.”
+</br>
+•	Kami Vaniea is a Lecturer in Cyber Security and Privacy at the University of Edinburgh's School of Informatics, where she specialises on the human factors involved in security and privacy, and the head of the Technology Usability Lab In Privacy and Security (TULIPS). The goal of her work is to make security and privacy technologies more accessible for a wide range of users and to empower them to easily make good security decisions. She has spoken extensively on ethical and privacy issues in data science.
+</br>
+•	Laura Cram is a professor of European Politics at the University of Edinburgh and the head of the NRLabs Neuropolitics Research lab. In her research, she examines how insights from psychology, information science and cognitive neuroscience can help to explain political behaviour and policy processes, using experimental approaches like fMRI brain scanning, behavioural games, face-emotion coding, eye-tracking, physiological hormone testing and big data analysis. She is a regular media commentator and her group's work has appeared on the BBC Daily Politics Show and as part of the BBC MindGames documentary, among others.
+
+
+</br>
+
+➡ More info about the series: <a href='https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai'>https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai</a>
+</br>
+➡ More info about this event: <a href='https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai/artificial-intelligence-data-me'>https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai/artificial-intelligence-data-me</a>
+</br>
+
+🥂 Followed by a drinks reception.
+</br>
+
+📸 NB: This event might be streamed live, recorded and/or photographed.
+"
+    date: 2019-01-27 18:00:00
+    to: 2019-01-27 20:00:00
+    location: "David Hume Tower, Lecture Theatre B"
+    allday: false
+    img: "weneedtotalk1.jpg"
+    facebook: "https://www.facebook.com/events/275296829839180/"
+
+
+-
+    id: 26
+    name: "Mini NeurIPS"
+    published: true
+    description: "
+The Conference on Neural Information Processing Systems (NeurIPS) is one of the most prestigious machine learning and computational neuroscience conference. In light of this, we present two speakers from the University of Edinburgh's own cohort whose papers have been accepted to NeurIPS.
+
+
+</br>
+The presented papers are:
+</br>
+'Moonshine: Distilling with Cheap Convolutions'; Elliot J. Crowley, Gavin Gray, Amos Storkey.
+<a href='https://arxiv.org/abs/1711.02613'>https://arxiv.org/abs/1711.02613</a>
+
+</br>
+'HOUDINI: Lifelong Learning as Program Synthesis'; Lazar Valkov, Dipak Chaudhari, Akash Srivastava, Charles Sutton, Swarat Chaudhuri
+<a href='https://arxiv.org/abs/1804.00218'>https://arxiv.org/abs/1804.00218</a>
+
+"
+    date: 2018-11-28 16:00:00
+    to: 2018-11-28 18:00:00
+    location: "David Hume Tower, Lecture Theatre B"
+    allday: false
+    img: "minineurips.jpg"
+    facebook: "https://www.facebook.com/events/275296829839180/"
+
+
+-
+    id: 25
+    name: "A.I. in genetics and genomics"
+    published: true
+    description: "
+Geneticist Lee Stopak, will talk about “The Applications of A.I. for genomics in healthcare”. 
+
+Lee is a scientist at Ada Health, a company which integrates symptom assessment, bioinformatics and machine learning, to empower its users to make informed decisions about their health.
+
+Come along to his talk at the David Hume Tower Lecture Theatre B today, after class and hear about how A.I. is changing the face of healthcare!"
+    date: 2018-11-27 17:00:00
+    to: 2018-11-27 18:00:00
+    location: "David Hume Tower, Lecture Theatre B"
+    allday: false
+    img: "genetics.jpg"
+    facebook: "https://www.facebook.com/events/275296829839180/"
+
+-
+    id: 24
+    name: "Become an AI Entrepreneur"
+    published: true
+    description: "
+If you’re interested in starting your own tech company and want to learn more about how you can commercialise your research, then join EdIntelligence and Ali from Entrepreneur First!
+
+Entrepreneur First is Europe’s leading pre-seed investment programme for founders of deep technology startups. Founded in 2011, EF backs the world’s top technical talent pre-company and pre-idea. EF’s startups have raised over $100m in funding and are breaking ground in artificial intelligence, robotics and infrastructure, among other fields. EF has built over +150 companies that are worth over $1.4bn in total. It’s the best place to find a co-founder, build a deep tech company and get funding from world leading investors."
+    date: 2018-10-30 17:00:00
+    to: 2018-10-30 20:00:00
+    location: "Appleton Tower, LT2"
+    allday: false
+    img: "ef.jpg"
+    facebook: "https://www.facebook.com/events/245786972780428/"
+
+
+-
+    id: 23
+    name: "EdIntelligence Mid-Sem Social"
+    published: true
+    description: "
+Welcome to our Mid-Semester Social at EdIntelligence! 
+
+For the first time, we will be at the famous St. Andrews Brewing Company at Potterow.
+
+They've got great prices on drinks 🍺🍾 and Mixers 💃🕺. It's recommended to be **on time** as some free finger food will be served alongside. 
+
+Whether you are in an MSc or PhD in Informatics, international/visiting student or you are a student interested in AI,  we invite everyone to our free Mid-Semester social!
+
+Get to know others with the same interest, socialise, learn about our society and, most important, have fun! If you have ideas about future projects, come and talk to our committee members!"
+    date: 2018-10-27 20:00:00
+    to: 2018-10-27 24:00:00
+    location: "St Andrews Brewing Co, Potterow"
+    allday: false
+    img: "social3.jpg"
+    facebook: "https://www.facebook.com/events/2068079836547476/"
+
+-
+    id: 22
+    name: "Mini- EMNLP"
+    published: true
+    description: "
+The Conference on Empirical Methods in Natural Language Processing (EMNLP) is one of the most prestigious Natural Language Processing conference. In light of this, we present six speakers from the University of Edinburgh's own cohort whose papers have been accepted to EMNLP. Come by and enjoy state of the art research for free!
+
+
+Presented Papers:
+<br /> 
+Privacy-preserving Neural Representations of Text - Maximin Coavoux, Shashi Narayan, Shay B. Cohen <a href='https://arxiv.org/abs/1808.09408'>https://arxiv.org/abs/1808.09408</a>
+<br /> 
+Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization - Shashi Narayan, Shay B. Cohen, Mirella Lapata  <a href='https://arxiv.org/abs/1808.08745'>https://arxiv.org/abs/1808.08745</a>  
+<br /> 
+What do character-level models learn about morphology? The case of dependency parsing - Clara Vania, Andreas Grivas, Adam Lopez  <a href='https://arxiv.org/abs/1808.09180'>https://arxiv.org/abs/1808.09180</a> 
+<br /> 
+Accelerating Asynchronous Stochastic Gradient Descent for Neural Machine Translation - Nikolay Bogoychev, Marcin Junczys-Dowmunt, Kenneth Heafield, Alham Fikri Aji <a href='https://arxiv.org/abs/1808.08859'>https://arxiv.org/abs/1808.08859</a> 
+<br /> 
+Learning Unsupervised Word Translations Without Adversaries - Tanmoy Mukherjee, Makoto Yamada, Timothy Hospedales
+<br /> 
+Data Augmentation via Dependency Tree Morphing for Low-Resource Languages - Gözde Gül Sahin, Mark Steedman"
+    date: 2018-10-24 17:00:00
+    to: 2018-10-24 19:00:00
+    location: "Appleton Tower, LT4"
+    allday: false
+    img: "mini-emnlp.jpg"
+    facebook: "https://www.facebook.com/events/164223854520870/"
+
+-
     id: 21
     name: "Machine Learning with Codeplay"
     published: true
