@@ -1,4 +1,58 @@
 -
+    id: 28
+    name: "From PhD to Startup"
+    published: true
+    description: "
+We are pleased to announce a joint event with Entrepreneurs First and Edintelligence! 
+
+The guest speaker will be Robert Stojnic, who is the co-founder and CEO of Atlas ML.
+
+Atlas ML is a platform that is systematising the world’s deep learning knowledge. Git and GitHub were designed for code, but new software has new ingredients like data and models that require new solutions. 
+
+Atlas ML is building that community and toolkit to solve the workflow problem for machine learning, and ultimately shape the future of software. 
+
+Robert started his career as one of the early core developers of Wikipedia, where he was part of a small team that scaled the website to billions of users. After that he completed a PhD in Computational Biology at Cambridge, where his research focused on the applications of machine learning in biology. After his PhD, he co-founded GeneAdviser and has been the CTO of Factmata, a company that built the first commercial hate speech and fake news detection engine together with researchers from UCL. He met his co-founder at Entrepreneur First and developed the idea for Atlas ML there.
+Robert will share his story and the key points in his career that brought him here. 
+
+He'll cover questions like how do you settle on an idea, how do you use your academic backgrounds as an advantage, and most importantly, how do you find a co-founder that propels you? Finally, he'll share advice on transitioning from academia to running a startup.
+
+
+Please arrive from 5.15pm to get settled in, and no later than 5.30pm. There will of course be beer and pizza after the event!"
+    date: 2019-02-25 17:30:00
+    to: 2019-02-25 19:30:00
+    location: "Appleton Tower"
+    allday: false
+    img: "ef2.jpg"
+    facebook: "https://www.facebook.com/events/401978797041693/"
+
+
+
+
+-
+    id: 28
+    name: "EdIntelligence Mid-Sem Social"
+    published: true
+    description: "
+Welcome to our Mid-Semester Social at EdIntelligence! 
+
+We will again be at the famous St. Andrews Brewing Company opposite the Bayes Centre. 
+
+They've got great prices on drinks 🍺🍾 and Mixers 💃🕺. It's recommended to be **on time** as some free finger food will be served alongside. 
+
+Whether you are in an MSc or PhD in Informatics, international/visiting student or you are a student interested in AI,  we invite everyone to our free Mid-Semester social!
+
+Get to know others with the same interest, socialise, learn about our society and, most important, have fun! If you have ideas about future projects, come and talk to our committee members!
+"
+    date: 2019-02-20 18:00:00
+    to: 2019-02-20 23:55:00
+    location: "St Andrews Brewing Co"
+    allday: false
+    img: "social4.jpg"
+    facebook: "https://www.facebook.com/events/2144211882268985/"
+
+
+
+-
     id: 27
     name: "We Need To Talk About AI series - #1 'AI, Big Data and Me'"
     published: true
