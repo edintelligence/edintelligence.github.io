@@ -1,5 +1,36 @@
 -
     id: 28
+    name: "Become a Committee Member"
+    published: true
+    description: "
+We are looking for an enthusiastic new committee to run this year's EdIntelligence! 
+Are you interested in AI, Machine Learning and Deep Learning and want to make it more accessible to everyone?
+
+Our events are such as:
+- Cutting Edge Research Talks by Researchers in Academia and the Industry
+-  Hackathons in Machine Learning
+- Workshops on specific topics in ML
+- Recruiting events such as our annual AI Career Fair and recruitment talks throughout the year
+- Socials :) 
+- and much more
+
+Sounds like something you want to be involved in? Then come to this meeting and figure out the specifics! Ask questions that you might have and nominate yourself for one of our committee roles from president to business coordinator!
+
+Before you come, we ask you to fill out the form in the ticket box (https://bit.ly/2mjwHNX) so that we can get a bit of an overview of who you are!
+"
+    date: 2019-10-02 16:00:00
+    to: 2019-10-02 18:00:00
+    location: "Appleton Tower"
+    allday: false
+    img: "become_member.jpg"
+    facebook: "https://www.facebook.com/events/444442049495299/"
+
+
+
+
+
+-
+    id: 28
     name: "From PhD to Startup"
     published: true
     description: "
