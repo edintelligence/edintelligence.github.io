@@ -1,3 +1,4 @@
+
 -
     id: 8
     name: "Stefanie Sp"
@@ -13,7 +14,6 @@
     social:
         - {name: "linkedin", link: "https://www.linkedin.com/in/tanawat-mark-klaisoongnoen-049550127/"}
     team: true 
-    current: true
 
 -
     id: 8
@@ -21,7 +21,6 @@
     image: "mari.png"
     description: "Mari Liis is a Master's student in Artificial Intelligence, and the Vice President of EdIntelligence. She is particularly intrigued by the mathematical methods underpinning machine learning, and could envision herself researching the theoretical foundations of machine learning in the future. During her BSc studies in Mathematics and Physics she developed a keen interest in all things data, having applied various data analysis techniques to studying astrophysical phenomena and building satellites! She is also passionate about ethics of AI, and aspires to ensure that everyone in society benefits from the developments in the field."
     team: true 
-    current: true
 
 -
     id: 8
@@ -33,11 +32,9 @@
     id: 1
     name: "Martin Asenov"
     image: "martin.jpg"
-    description: "Currently, I am a PhD student at the University of Edinburgh, working on active sensing with UAV, in collaboration with Heriot-Watt University and the Defence Science and Technology Laboratory.
-
-Currently I am looking into the problem of active sensing using UAV mounted sensors (chemical, light, wing, etc.). For the purpose I am building probabilistic models of the entire field of interest (using Gaussian Processes for example), to inform sampling picking places of high uncertainty or possible highest readings. I am also interested in modular neural networks and physics engines to try to actively model dynamics of real-world scenes."
+    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the RAD group , supervised by Dr. Subramanian Ramamoorthy and Dr. Kartic Subr. I am working on the interection of Robotics, Machine Learning and Physics, i.e. how can we solve highly dynamical tasks in uncertain environments by incorportaing physical inductive bias. This allows for performing tasks such as localizing a gas leakage with a UAV, stopping an unknown bouncing ball mid-air, etc., by incorportaing useful bias for wind and gas dispersion; free fall and restitution; etc. I am also a committee member of EdIntelligence and cohort representative for the Robotics RAS CDT."
     social:
-        - {name: "user", link: "https://masenov.github.io"}
+        - {name: "user", link: "https://masenov.com"}
         - {name: "github", link: "https://github.com/masenov"}
         - {name: "twitter", link: "https://twitter.com/masenov1"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/masenov1/"}
@@ -56,21 +53,18 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     image: "lauren.jpg"
     description: "Lauren studies Artifical Intelligence at the University of Edinburgh after becoming interested in the use of Bayesian methods in machine learning during her Undergraduate degree. She is also particularly interested in approximate inference and, recently, natural language processing."
     team: true
-    current: true
 -
     id: 0
     name: "Arun Raja"
     image: "arun.jpg"
     description: "Arun Raja is passionate about employing Artificial Intelligence in solving problems related to the fields of healthcare and transport. He is currently an undergraduate student pursuing Artificial Intelligence and Computer Science at The University of Edinburgh. He has been awarded the National Science Scholarship by the Agency for Science, Technology and Research, Singapore, to pursue his undergraduate studies.  He hopes to delve deeper into the field of Natural Language Processing to improve the communication between man and machine."
     team: true
-    current: true
 -
     id: 0
     name: "Daniel Miskell"
     image: "daniel.jpg"
     description: "Daniel is our Start-up Coordinator. With valuable experience setting up AI focused businesses, he is the link between our members and the start up scene. Helping our members discover exciting opportunities and educating them to bring their own ideas to life! He is currently studying a MSc in Artificial Intelligence, with a research interest in Deep Reinforcement Learning for Robotics and the applications it brings."
     team: true
-    current: true
 -
     id: 0
     name: "David Wilmot"
@@ -84,7 +78,6 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     image: "hansun.jpg"
     description: "With experience in finance and IT sectors, Hansun joined the AI program with passion for developing algorithms which have the power to extract the right information from a vast amount of data. Through EdIntelligence, she aims to build a bridge between the University and business sectors so as adequate match may be made. Excited to be part of burgeoning society with new roles and growing department. "
     team: true
-    current: true
 -
     id: 0
     name: "Ioana Bozduga"
@@ -94,11 +87,37 @@ Currently I am looking into the problem of active sensing using UAV mounted sens
     current: true
 -
     id: 0
+    name: "Nout Kleef"
+    image: "noutkleef.jpg"
+    description: "Nout is currently a second year Artificial Intelligence & Computer Science student. He's in charge of organising the socials as EdIntelligence's Social Secretary. His first encounter with artificial intelligence was using football stats to predict match results, and he's hoping to deepen his understanding about machine learning over the following years."
+    team: true
+    current: true
+-
+    id: 0
+    name: "Ben Cottier"
+    image: "bencottier.jpg"
+    description: "Ben organises mini-conferences for EdIntelligence. He likes to get 
+amongst the latest AI research, reading papers and newsletters in his 
+spare time. While he has long been fascinated technically by AI, he is 
+even more interested in the big philosophical questions and societal 
+challenges surrounding it. He is studying an MSc in Artificial 
+Intelligence at the University of Edinburgh, with a particular interest 
+in integrating human oversight with reinforcement learning. "
+    team: true
+    current: true
+-
+    id: 0
+    name: "Becky Paton"
+    image: "beckypaton.jpg"
+    description: "Becky is a second year studying Cognitive Science at the University of Edinburgh. She is interested in learning more about AI, specifically in regards to deep learning and human image synthesis. She is keen in making it accessible to students from many different academic backgrounds and encouraging people on their future paths. "
+    team: true
+    current: true
+-
+    id: 0
     name: "Jonathan Smellie"
     image: "jonathans.jpg"
     description: "Jonathan acts as a business coordinator team member of Edintelligence. He is currently studying Systems and Synthetic Biology at the University of Edinburgh and has an interest in applying machine learning to genomics and precision medicine. In pursuit of this goal he is also undertaking the Postgraduate Professional Development course in Data Science, Technology and Innovation at the school of Informatics."
     team: true
-    current: true
 -
     id: 0
     name: "Martin-Philipp Irsch"
@@ -196,27 +215,23 @@ Currently, he is also working part time as a data science for a Germany-based ve
         - {name: "github", link: "https://github.com/yadrimz"}
         - {name: "twitter", link: "https://twitter.com/yadrimz"}
     team: true
-    current: true
 -
     id: 7
     name: "Paolo Marangio"
     image: "paolo.jpg"
     description: "Paolo is a biologist by training and an Edinburgh local, having lived here for 3 years while undertaking a MSc in Synthetic Biology and Biotechnology and subsequently working at the industrial biotechnology company Ingenza. He is deeply interested in the application of computing and biology for solving challenges in the field of healthcare and sustainability. As such, he decided to take on a new challenge and pursue a MSc in High Performance Computing with Data Science. He has previous start-up and university society experience and will be a flexible general member at EdIntelligence."
     team: true
-    current: true
 -
     id: 7
     name: "Xing Wang"
     image: "xing.jpg"
     description: "Xing Wang studies Data Science as an MSc student at the University of Edinburgh. He has a background in Materials Science and now is particularly interested in Natural Language Processing."
     team: true
-    current: true
 -
     id: 7
     name: "Danuphan"
     image: "danuphan.jpg"
     description: "I am passionate about Maths and Coding, and following a career path where Maths and coding perfectly fit together. I am very keen to know how each ML algorithm was developed and how to customize them. Apart from academics, I love taking photo, traveling, and sight-seeing. Oh, and really love playing badminton :D"
     team: true
-    current: true
 
 
