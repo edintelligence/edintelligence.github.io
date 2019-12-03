@@ -122,6 +122,14 @@ in integrating human oversight with reinforcement learning. "
         - {name: "linkedin", link: "https://www.linkedin.com/in/ondrejbohdal/"}
     team: true
     current: true
+-
+    id: 0
+    name: "Fazl Barez"
+    image: "fazl.jpg"
+    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the Belle Lab, supervised by Dr. Vaishak Belle and Prof. Helen Hastie. I am working on the intersection of Symbolic systems and  Machine Learning. I am interested in constrained machine learning for producing robust and interpretable outputs. Beside my PhD and EdIntelligence I also play football for informatic FC."
+    team: true
+    current: true
+
 
 -
     id: 0
