@@ -32,7 +32,7 @@
     id: 1
     name: "Martin Asenov"
     image: "martin.jpg"
-    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the RAD group , supervised by Dr. Subramanian Ramamoorthy and Dr. Kartic Subr. I am working on the interection of Robotics, Machine Learning and Physics, i.e. how can we solve highly dynamical tasks in uncertain environments by incorportaing physical inductive bias. This allows for performing tasks such as localizing a gas leakage with a UAV, stopping an unknown bouncing ball mid-air, etc., by incorportaing useful bias for wind and gas dispersion; free fall and restitution; etc. I am also a committee member of EdIntelligence and cohort representative for the Robotics RAS CDT."
+    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the RAD group, supervised by Dr. Subramanian Ramamoorthy and Dr. Kartic Subr. I am working on the intersection of Robotics, Machine Learning and Physics, i.e. how can we solve highly dynamical tasks in uncertain environments by incorporating physical inductive bias. This allows for performing tasks such as localizing a gas leakage with a UAV, stopping an unknown bouncing ball mid-air, etc., by incorporating useful bias for wind and gas dispersion; free fall and restitution; etc. I am also a committee member of EdIntelligence and cohort representative for the Robotics RAS CDT."
     social:
         - {name: "user", link: "https://masenov.com"}
         - {name: "github", link: "https://github.com/masenov"}
@@ -114,6 +114,17 @@ in integrating human oversight with reinforcement learning. "
     current: true
 -
     id: 0
+    name: "Ondrej Bondal"
+    image: "ondrej.jpg"
+    description: "Ondrej is currently a first-year PhD student in Data Science at the University of Edinburgh. His research is focused on developing methods that would allow machines to learn from very few examples in more general settings than is currently possible. Within EdIntelligence, he helps with academic outreach and organization of mini-conferences."
+    social:
+        - {name: "user", link: "https://ondrejbohdal.github.io/"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ondrejbohdal/"}
+    team: true
+    current: true
+
+-
+    id: 0
     name: "Jonathan Smellie"
     image: "jonathans.jpg"
     description: "Jonathan acts as a business coordinator team member of Edintelligence. He is currently studying Systems and Synthetic Biology at the University of Edinburgh and has an interest in applying machine learning to genomics and precision medicine. In pursuit of this goal he is also undertaking the Postgraduate Professional Development course in Data Science, Technology and Innovation at the school of Informatics."
@@ -124,7 +135,6 @@ in integrating human oversight with reinforcement learning. "
     image: "martin-philipp.jpg"
     description: "Martin-Philipp studies Artifical Intelligence at the University of Edinburgh. His background is in Mechanical Engineering with a focus on automotive applications. Machine learning fueled his interest while searching for new solutions in solving complex control tasks in automotive cooling. Thus, he is interested in reinforcement learning and, recently, natural language processing."
     team: true
-    current: true
 -
     id: 0
     name: "Sarah Halpin"
