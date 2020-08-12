@@ -1,3 +1,27 @@
+-
+    id: 8
+    name: "Feysal Kethuda"
+    image: "feysal.jpeg"
+    description: "Feysal is the president of Edintelligence. He is currently in 3rd year studying Artificial Intelligence and Computer Science. He is interested in using AI to guide and automate decision making. His first AI project was building a bot that plays the video game StarCraft II."
+    team: true
+    current: true
+
+-
+    id: 0
+    name: "Ioana Bozduga"
+    image: "ioana.jpg"
+    description: "Ioana is an Artificial Intelligence student. She is currently the Chief of Marketing and Director of Artificial Intelligence Career Fair.  Her biggest interest is in Natural Language Processing. 
+"
+    team: true
+    current: true
+
+-
+    id: 0
+    name: "David Wilmot"
+    image: "david.jpg"
+    description: "David Wilmot is a Phd Student within the ILCC (Institute Language Cognition and Computation) researching the understanding of multimodal narratives. Prior to this, he spent a long time working commercially as a Software Engineer and Business Analyst in Industry for major financial services firms and in startups."
+    team: true
+    current: true
 
 -
     id: 8
@@ -67,22 +91,25 @@
     team: true
 -
     id: 0
-    name: "David Wilmot"
-    image: "david.jpg"
-    description: "David Wilmot is a Phd Student within the ILCC (Institute Language Cognition and Computation) researching the understanding of multimodal narratives. Prior to this, he spent a long time working commercially as a Software Engineer and Business Analyst in Industry for major financial services firms and in startups."
-    team: true
-    current: true
--
-    id: 0
     name: "Hansun Lee"
     image: "hansun.jpg"
     description: "With experience in finance and IT sectors, Hansun joined the AI program with passion for developing algorithms which have the power to extract the right information from a vast amount of data. Through EdIntelligence, she aims to build a bridge between the University and business sectors so as adequate match may be made. Excited to be part of burgeoning society with new roles and growing department. "
     team: true
 -
     id: 0
-    name: "Ioana Bozduga"
-    image: "ioana.jpg"
-    description: "My name is Ioana Buzduga and I am the Academic Coordinator for Ed Intelligence this year. I am a 2nd year Computer Science student from Romania. Currently I am a Resident Assistant for a University Accommodation, Brae House as well as I am the Publicity and Media Responsible for Edinburgh Bhangra Crew, a society for Indian Dance. I joined this year this society, because I think it will be a huge method to improve my knowledge, but also an opportunity to meet people who can inspire me. I decided to be Academic Coordinator, because I would like to organize useful and interesting talks for postgraduates, but also for undergraduates. What’s more, I would like to create more facilities for students to learn more about Machine Learning and build their path for a successful career. "
+    name: "Ondrej Bondal"
+    image: "ondrej.jpg"
+    description: "Ondrej is currently a first-year PhD student in Data Science at the University of Edinburgh. His research is focused on developing methods that would allow machines to learn from very few examples in more general settings than is currently possible. Within EdIntelligence, he helps with academic outreach and organization of mini-conferences."
+    social:
+        - {name: "user", link: "https://ondrejbohdal.github.io/"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ondrejbohdal/"}
+    team: true
+    current: true
+-
+    id: 0
+    name: "Fazl Barez"
+    image: "fazl.jpg"
+    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the Belle Lab, supervised by Dr. Vaishak Belle and Prof. Helen Hastie. I am working on the intersection of Symbolic systems and  Machine Learning. I am interested in constrained machine learning for producing robust and interpretable outputs. Beside my PhD and EdIntelligence I also play football for informatics FC."
     team: true
     current: true
 -
@@ -110,23 +137,6 @@ in integrating human oversight with reinforcement learning. "
     name: "Becky Paton"
     image: "beckypaton.jpg"
     description: "Becky is a second year studying Cognitive Science at the University of Edinburgh. She is interested in learning more about AI, specifically in regards to deep learning and human image synthesis. She is keen in making it accessible to students from many different academic backgrounds and encouraging people on their future paths. "
-    team: true
-    current: true
--
-    id: 0
-    name: "Ondrej Bondal"
-    image: "ondrej.jpg"
-    description: "Ondrej is currently a first-year PhD student in Data Science at the University of Edinburgh. His research is focused on developing methods that would allow machines to learn from very few examples in more general settings than is currently possible. Within EdIntelligence, he helps with academic outreach and organization of mini-conferences."
-    social:
-        - {name: "user", link: "https://ondrejbohdal.github.io/"}
-        - {name: "linkedin", link: "https://www.linkedin.com/in/ondrejbohdal/"}
-    team: true
-    current: true
--
-    id: 0
-    name: "Fazl Barez"
-    image: "fazl.jpg"
-    description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the Belle Lab, supervised by Dr. Vaishak Belle and Prof. Helen Hastie. I am working on the intersection of Symbolic systems and  Machine Learning. I am interested in constrained machine learning for producing robust and interpretable outputs. Beside my PhD and EdIntelligence I also play football for informatics FC."
     team: true
     current: true
 
