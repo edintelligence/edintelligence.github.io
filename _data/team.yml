@@ -65,6 +65,14 @@
     team: true 
     current : true
 -
+    id: 8
+    name: "Prakash Nair "
+    image: "prakash.jpg"
+    description: "Prakash Nair is a second year Economics and Statistics student with a keen interest in statistical learning and computer vision!"
+    team: true
+    current: true
+
+-
 
     id: 0
     name: "Leona Goebbels"
@@ -118,7 +126,7 @@
     image: "noutkleef.jpg"
     description: "Nout is currently a second year Artificial Intelligence & Computer Science student. He's in charge of organising the socials as EdIntelligence's Social Secretary. His first encounter with artificial intelligence was using football stats to predict match results, and he's hoping to deepen his understanding about machine learning over the following years."
     team: true
-    current: true
+    current: false
 -
     id: 0
     name: "Ben Cottier"
@@ -138,7 +146,7 @@ in integrating human oversight with reinforcement learning. "
     image: "beckypaton.jpg"
     description: "Becky is a second year studying Cognitive Science at the University of Edinburgh. She is interested in learning more about AI, specifically in regards to deep learning and human image synthesis. She is keen in making it accessible to students from many different academic backgrounds and encouraging people on their future paths. "
     team: true
-    current: true
+    current: false
 
 
 -

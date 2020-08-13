@@ -1,4 +1,16 @@
 <!-- Main -->
+
+<script>
+ function myFunction() {
+     var x = document.getElementById("myDIV");
+     if (x.style.display === "none") {
+         x.style.display = "block";
+     } else {
+         x.style.display = "none";
+     }
+ }
+</script>
+
 <article id="main">
 
     <!-- One -->
@@ -63,7 +75,9 @@
                                 <h3>Alumni</h3>
                             </header>
                         </section>
-                        
+                        <button onclick="myFunction()">Show me!</button>
+
+                        <div id="myDIV" style="display:none">
                         {% for teamMember in site.data.team %} {% if teamMember.team != null %} {% if teamMember.current != true %}
                         <section>
                         <div class="row 100%">
@@ -83,6 +97,7 @@
                         </section>
                         {% endif %} {% endif %} {% endfor %}
 
+                        </div>
 <!--                         <section>
                             <header>
                                 <h3>Former Members</h3>
