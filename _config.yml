@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
-title: "Edintelligence | Machine Learning Society"
+title: "Edintelligence | AI & Data Science Society"
 #email: ""
-description: "Machine Learning Society of the University of Edinburgh"
+description: "AI & Data Science Society of the University of Edinburgh"
 baseurl: ""
 url: "https://edintelligence.github.io"
 #url: "http://localhost:4000"
