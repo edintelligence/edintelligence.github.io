@@ -14,6 +14,15 @@
 "
     team: true
     current: true
+-
+    id: 0
+    name: "Lin Duška"
+    image: "lin.jpg"
+    description: "Linda is a 3rd year AI & Computer Science student who enjoys exploring what is possible to do using lots of data and Machine Learning. She is interested in Deep Learning, Computer Vision and very passionate about the idea that we might be able to apply them to build algorithms used in reliable self-driving cars. She is the Secretary of EdIntelligence. 
+"
+    team: true
+    current: true
+
 
 -
     id: 0
@@ -29,7 +38,7 @@
     image: "stefanie.jpg"
     description: "Stefanie studies Data Science at the University of Edinburgh and is Edintelligence's President. Machine Learning sparked her interest during the research for an undergraduate project, where the idea of intelligent machines captivated her. To apply and deepen her knowledge she is currently pursuing a Masters in Data Science at the University of Edinburgh. She particularly enjoys applying Deep Learning techniques in distributed systems."
     team: true
-    current: true
+    current: false
 -
     id: 8
     name: "Mark Klaisoongnoen"
@@ -119,7 +128,7 @@
     image: "fazl.jpg"
     description: "I am a PhD candidate at The University of Edinburgh and Heriot-Watt University, part of the Belle Lab, supervised by Dr. Vaishak Belle and Prof. Helen Hastie. I am working on the intersection of Symbolic systems and  Machine Learning. I am interested in constrained machine learning for producing robust and interpretable outputs. Beside my PhD and EdIntelligence I also play football for informatics FC."
     team: true
-    current: true
+    current: false
 -
     id: 0
     name: "Nout Kleef"
@@ -139,7 +148,7 @@ challenges surrounding it. He is studying an MSc in Artificial
 Intelligence at the University of Edinburgh, with a particular interest 
 in integrating human oversight with reinforcement learning. "
     team: true
-    current: true
+    current: false
 -
     id: 0
     name: "Becky Paton"
