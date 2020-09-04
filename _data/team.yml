@@ -122,6 +122,17 @@
         - {name: "linkedin", link: "https://www.linkedin.com/in/ondrejbohdal/"}
     team: true
     current: true
+
+-
+    id: 0
+    name: "Naman Balbir Singh Makkar"
+    image: "naman.png"
+    description: "Naman is the Competitions Leader of EdIntelligence. His job to lead the EdIntelligence teams in various Machine Learning competitions and hackathons. Naman is an Undergraduate Student studying Artificial Intelligence and Software Engineering at The University of Edinburgh who is very interested in Deep Learning and its applications. He specializes in computer vision and Convolutional Neural Networks and is particularly interested in the applications of CNNs in analysing X-ray images. He is also a regular competitor on Kaggle (a website that hosts online Machine Learning competitions) and has been in the top 9%, top 14% and top 17% in multiple competitions. Being a chess player, he is also fascinated by Reinforcement Learning and the miraculous chess playing neural networks it has created in the recent past (Alpha-Zero and Leela-Chess-Zero to name a few) that have easily surpassed all human progress made in chess over the past 1000 years in just a few hours. It is his dream to program a chess playing neural network of his own using Deep Reinforcement Learning. Over the next few years, he plans to deepen his knowledge of Machine Learning , gain some valuable research experience and hopefully win many ML competitions and Hackathons for EdIntelligence."
+    team: true
+    current: true
+
+
+
 -
     id: 0
     name: "Fazl Barez"
