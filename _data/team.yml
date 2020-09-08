@@ -131,6 +131,22 @@
     team: true
     current: true
 
+-
+    id: 0
+    name: "Aastha Singh"
+    image: "aastha.jpg"
+    description: "Aastha is a 3rd year Medical student and our graphic designer this year. She is interested in the merging of medicine and artificial intelligence to aid diagnosis and patient management."
+    team: true
+    current: true
+
+-
+    id: 0
+    name: "Mo Harah"
+    image: "mo.jpg"
+    description: "Mohamad is a 3rd year AI & Computer Science student who has an interest in natural language processing, deep learning and combine the two in exploring possible early versions artificial general intelligence."
+    team: true
+    current: true
+
 
 
 -
